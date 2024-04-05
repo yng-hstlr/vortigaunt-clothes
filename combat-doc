@@ -11,10 +11,10 @@ owner():setBodygroup(4,2) #Backpack#
 
 owner():setBodygroup(5,0) #Bandana#
 
-owner():setBodygroup(6,2) #Hats#
+owner():setBodygroup(6,0) #Hats#
 
-owner():setBodygroup(7,0) #restraints# set 1 to 0 for free
+owner():setBodygroup(7,1) #restraints# set 1 to 0 for free
 
-owner():setBodygroup(8,0) #restraints# set 1 to 0 for free
+owner():setBodygroup(8,1) #restraints# set 1 to 0 for free
 
 owner():setSkin(2)
