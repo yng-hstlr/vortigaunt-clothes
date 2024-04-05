@@ -1,0 +1,21 @@
+@name clothes reset
+@trigger 
+
+
+owner():setBodygroup(1,0) #Clothing#
+
+owner():setBodygroup(2,0) #Food items#
+
+owner():setBodygroup(3,0) #Bag#
+
+owner():setBodygroup(4,0) #Backpack#
+
+owner():setBodygroup(5,0) #Bandana#
+
+owner():setBodygroup(6,0) #Hats#
+
+owner():setBodygroup(7,1) #restraints# set 1 to 0 for free
+
+owner():setBodygroup(8,1) #restraints# set 1 to 0 for free
+
+owner():setSkin(2)
